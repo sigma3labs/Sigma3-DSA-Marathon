@@ -22,3 +22,6 @@ class Solution
     	return second.data;
     }
 }
+
+
+// GFG Solution Link : https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0
