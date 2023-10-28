@@ -1,3 +1,4 @@
+# https://www.codechef.com/problems/QUADROOT
 import math
 
 a = int(input())
